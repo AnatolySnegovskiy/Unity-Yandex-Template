@@ -1,0 +1,107 @@
+{
+    "m_SelectedDeviceId": "054114c20405",
+    "m_SelectedPackage": {
+        "deviceId": "054114c20405",
+        "name": "com.CarrionCrow.ColorGemPuzzle",
+        "processId": 2820,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "054114c20405",
+            "name": "com.miui.home",
+            "processId": 1721,
+            "exited": false
+        },
+        {
+            "deviceId": "054114c20405",
+            "name": "com.CarrionCrow.ColorGemPuzzle",
+            "processId": 26851,
+            "exited": true
+        },
+        {
+            "deviceId": "054114c20405",
+            "name": "com.CarrionCrow.ColorGemPuzzle",
+            "processId": 27943,
+            "exited": true
+        },
+        {
+            "deviceId": "054114c20405",
+            "name": "com.CarrionCrow.ColorGemPuzzle",
+            "processId": 30498,
+            "exited": true
+        },
+        {
+            "deviceId": "054114c20405",
+            "name": "com.CarrionCrow.ColorGemPuzzle",
+            "processId": 32041,
+            "exited": true
+        },
+        {
+            "deviceId": "054114c20405",
+            "name": "com.CarrionCrow.ColorGemPuzzle",
+            "processId": 562,
+            "exited": true
+        },
+        {
+            "deviceId": "054114c20405",
+            "name": "com.CarrionCrow.ColorGemPuzzle",
+            "processId": 2820,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 1,
+        "Behavior": 1
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}

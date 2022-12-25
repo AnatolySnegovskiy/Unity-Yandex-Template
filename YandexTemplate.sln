@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Main", "Main.csproj", "{a096ccbc-9477-0b46-4401-b510d5ec5652}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayModeTests", "PlayModeTests.csproj", "{123686cc-321b-d52d-a7de-2c37729d8c39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YandexGamesSDK", "YandexGamesSDK.csproj", "{ef96c588-a147-125b-e8f1-584a9ea18a32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EditorModeTests", "EditorModeTests.csproj", "{ace24478-48e7-f441-119c-8f46489c6e03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{202583f7-8129-c8f5-5842-b23564a1b472}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{a096ccbc-9477-0b46-4401-b510d5ec5652}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{a096ccbc-9477-0b46-4401-b510d5ec5652}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{123686cc-321b-d52d-a7de-2c37729d8c39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{123686cc-321b-d52d-a7de-2c37729d8c39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ef96c588-a147-125b-e8f1-584a9ea18a32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ef96c588-a147-125b-e8f1-584a9ea18a32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ace24478-48e7-f441-119c-8f46489c6e03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ace24478-48e7-f441-119c-8f46489c6e03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{202583f7-8129-c8f5-5842-b23564a1b472}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{202583f7-8129-c8f5-5842-b23564a1b472}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
